@@ -1,1 +1,2 @@
 This is text2.txt file
+LEXA made also a second change here
